@@ -1,0 +1,7 @@
+C:\Users\devan\source\repos\FirstPointer\bin\Debug\FirstPointer.exe.config
+C:\Users\devan\source\repos\FirstPointer\bin\Debug\FirstPointer.exe
+C:\Users\devan\source\repos\FirstPointer\bin\Debug\FirstPointer.pdb
+C:\Users\devan\source\repos\FirstPointer\obj\Debug\FirstPointer.csproj.AssemblyReference.cache
+C:\Users\devan\source\repos\FirstPointer\obj\Debug\FirstPointer.csproj.CoreCompileInputs.cache
+C:\Users\devan\source\repos\FirstPointer\obj\Debug\FirstPointer.exe
+C:\Users\devan\source\repos\FirstPointer\obj\Debug\FirstPointer.pdb
